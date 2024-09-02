@@ -1,0 +1,18 @@
+header {
+    background-color:dimgray;
+    display: flex;
+    justify-content: center;
+}
+
+section {
+    background-color:darkslategrey;
+    height: 100vh;
+}
+
+.parts {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 20px;
+
+}
